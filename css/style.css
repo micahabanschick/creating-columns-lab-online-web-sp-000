@@ -52,7 +52,7 @@ img:hover {
   display: inline-block;
 }
 
-#column-l {
+.column-l {
   width: 90%;
   display: inline-block;
 }
