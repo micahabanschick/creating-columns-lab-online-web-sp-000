@@ -54,7 +54,7 @@ img:hover {
 
 .column-l {
   width: 55%;
-  display: inline-block;
+  float: both;
 }
 
 /* create your tile classes! we recommend .small .med .large */
@@ -71,5 +71,4 @@ img:hover {
 .large {
   width: 303%;
   height: 303%;
-  display: flow-root;
 }
