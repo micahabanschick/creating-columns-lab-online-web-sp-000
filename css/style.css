@@ -52,7 +52,7 @@ img:hover {
   display: inline-block;
 }
 
-.column {
+.container .dubious .column {
   width: 55%;
 }
 
