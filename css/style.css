@@ -53,7 +53,8 @@ img:hover {
 }
 
 #column-l {
-  
+  width: 90%;
+  display: inline-block;
 }
 
 /* create your tile classes! we recommend .small .med .large */
