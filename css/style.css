@@ -64,8 +64,6 @@ img:hover {
 }
 
 .large {
-  box-sizing: border-box;
-  margin: auto;
   width: 303%;
   height: 303%;
 }
