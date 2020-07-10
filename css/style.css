@@ -71,5 +71,5 @@ img:hover {
 .large {
   width: 303%;
   height: 303%;
-  display: -root;
+  display: flow-root;
 }
